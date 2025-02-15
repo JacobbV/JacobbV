@@ -26,7 +26,8 @@ Passionate about technology, coding, and solving problems with clean and efficie
 ### 🛠 Tech Stack
 <div style="display: inline_block"><br>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></a>
+<img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-original.svg">
+  <a href="https://python-visualization.github.io/folium/latest/#" target="_blank"><img align="center" alt="Folium" height="30" width="40" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png"></a>
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
@@ -37,7 +38,6 @@ Passionate about technology, coding, and solving problems with clean and efficie
   <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></a>
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://python-visualization.github.io/folium/latest/#" target="_blank"><img align="center" alt="Folium" height="30" width="40" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png"></a>
   <a href="https://about.gitlab.com/" target="_blank"><img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></a>
   <a href="https://cloud.google.com/?hl=pt_br" target="_blank"><img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
   <a href="https://azure.microsoft.com/pt-br" target="_blank"><img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
