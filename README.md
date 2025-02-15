@@ -27,7 +27,7 @@ Passionate about technology, coding, and solving problems with clean and efficie
 <div style="display: inline_block"><br>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <img align="center" alt="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <a href="https://python-visualization.github.io/folium/latest/#" target="_blank"><img align="center" alt="Folium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Folium_logo.svg"></a>
+  <a href="https://python-visualization.github.io/folium/latest/#" target="_blank"><img align="center" alt="Folium" height="30" width="40" src="https://raw.githubusercontent.com/folium-library/folium/main/docs/source/_static/folium_logo.png"></a>
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
