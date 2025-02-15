@@ -54,7 +54,7 @@ Passionate about technology, coding, and solving problems with clean and efficie
 
 ---
 
-![Snake animation](https://github.com/JacobbV/JacobbV/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/assets/snake.svg)
 
 ---
 
