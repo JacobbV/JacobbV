@@ -96,19 +96,19 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 
 A web application for managing a business's inventory. This project connects software development with a real need for organization and day-to-day management.
 
-[📂 Source Code](https://github.com/JacobbV/pedacinho-do-sertao-estoque) · [🌐 Visit Application](https://ramesonjaco.pythonanywhere.com/)
+[📂 Repository](https://github.com/JacobbV/pedacinho-do-sertao-estoque) · [🌐 Visit Application](https://ramesonjaco.pythonanywhere.com/)
 
 ### 💰 Personal Finance — Web
 
 A Python web application for organizing purchases, installment payments, and financial tracking. Built and improved around everyday needs.
 
-[📂 Repository](https://github.com/JacobbV/controle-financeiro-web) · 🔒 Private repository · Not yet deployed
+[📂 Repository](https://github.com/JacobbV/controle-financeiro-web) · Not yet deployed
 
 ### 🖥️ Personal Finance — Desktop
 
 The desktop version of my personal finance project.
 
-[📂 Repository](https://github.com/JacobbV/controle-financeiro-desktop)
+[📂 Repository](https://github.com/JacobbV/controle-financeiro-desktop) · Not yet deployed
 
 ### ✈️ Check_Voo — Aircraft Tracking
 
@@ -116,17 +116,17 @@ A Python application designed to retrieve flight data from aviation APIs, filter
 
 **Technologies:** Python · Requests · Folium · Rich · Geopy
 
-[📂 Source Code](https://github.com/JacobbV/Check_Voo)
+[📂 Repository](https://github.com/JacobbV/Check_Voo) · Not yet deployed
 
 ### 🔳 ProjectQRcode
 
-[📂 Repository](https://github.com/JacobbV/ProjectQRcode)
+[📂 Repository](https://github.com/JacobbV/ProjectQRcode) · Not yet deployed
 
 ### 🍽️ Restaurant System with Python
 
 An educational project used to practice programming logic through menu choices, quantities, discounts, order summaries, and payment methods.
 
-[📂 Repository](https://github.com/JacobbV/sistema-restaurante-python)
+[📂 Repository](https://github.com/JacobbV/sistema-restaurante-python) · Not yet deployed
 
 ### 👨‍🏫 Teaching Programming with Python
 
