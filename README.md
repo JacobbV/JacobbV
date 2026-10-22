@@ -58,6 +58,12 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
   <a href="https://github.com/"><img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
   <a href="https://python-visualization.github.io/folium/latest/"><img alt="Folium" height="37" width="27" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" /></a>
 </p>
+<p>
+  <img alt="Requests" src="https://img.shields.io/badge/🌐_Requests-3776AB?style=for-the-badge" />
+  <img alt="Rich" src="https://img.shields.io/badge/🎨_Rich-7952B3?style=for-the-badge" />
+  <img alt="Geopy" src="https://img.shields.io/badge/📍_Geopy-2E8B57?style=for-the-badge" />
+  <img alt="PythonAnywhere" src="https://img.shields.io/badge/☁️_PythonAnywhere-1D9FD7?style=for-the-badge" />
+</p>
 
 **Python · HTML · CSS · JavaScript · Git · GitHub · VS Code · PythonAnywhere**
 
@@ -79,12 +85,12 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 
 | Project | Focus | Repository | Application |
 | --- | --- | --- | --- |
-| 🧺 **Pedacinho do Sertão** | Inventory management | [Source Code](https://github.com/JacobbV/pedacinho-do-sertao-estoque) | [Visit App](https://ramesonjaco.pythonanywhere.com/) |
+| 🧺 **Pedacinho do Sertão** | Inventory management | [Repository](https://github.com/JacobbV/pedacinho-do-sertao-estoque) | [Visit App](https://ramesonjaco.pythonanywhere.com/) |
 | 💰 **Personal Finance — Web** | Purchases, installments, and financial tracking | [Repository](https://github.com/JacobbV/controle-financeiro-web) | Not yet deployed |
-| 🖥️ **Personal Finance — Desktop** | Desktop finance application | [Repository](https://github.com/JacobbV/controle-financeiro-desktop) | — | Not yet deployed |
-| ✈️ **Check_Voo** | Aircraft data, API integration, and interactive maps | [Source Code](https://github.com/JacobbV/Check_Voo) | — | Not yet deployed |
-| 🔳 **ProjectQRcode** | Project repository | [Repository](https://github.com/JacobbV/ProjectQRcode) | — | Not yet deployed |
-| 🍽️ **Restaurant System** | Practical programming exercises in Python | [Repository](https://github.com/JacobbV/sistema-restaurante-python) | — | Not yet deployed |
+| 🖥️ **Personal Finance — Desktop** | Desktop finance application | [Repository](https://github.com/JacobbV/controle-financeiro-desktop) | Not yet deployed |
+| ✈️ **Check_Voo** | Aircraft data, API integration, and interactive maps | [Repository](https://github.com/JacobbV/Check_Voo) | Not yet deployed |
+| 🔳 **ProjectQRcode** | Project repository | [Repository](https://github.com/JacobbV/ProjectQRcode) | Not yet deployed |
+| 🍽️ **Restaurant System** | Practical programming exercises in Python | [Repository](https://github.com/JacobbV/sistema-restaurante-python) | Not yet deployed |
 
 > Private repositories require authorized access.
 
