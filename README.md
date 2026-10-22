@@ -153,7 +153,7 @@ Activities and examples used in my algorithms classes, covering input and output
 
 ### 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg?v=2)
 
 ---
 
