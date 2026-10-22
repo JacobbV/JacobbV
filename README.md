@@ -80,11 +80,11 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 | Project | Focus | Repository | Application |
 | --- | --- | --- | --- |
 | 🧺 **Pedacinho do Sertão** | Inventory management | [Source Code](https://github.com/JacobbV/pedacinho-do-sertao-estoque) | [Visit App](https://ramesonjaco.pythonanywhere.com/) |
-| 💰 **Personal Finance — Web** | Purchases, installments, and financial tracking | [Repository](https://github.com/JacobbV/controle-financeiro-web) 🔒 | Not yet deployed |
-| 🖥️ **Personal Finance — Desktop** | Desktop finance application | [Repository](https://github.com/JacobbV/controle-financeiro-desktop) | — |
-| ✈️ **Check_Voo** | Aircraft data, API integration, and interactive maps | [Source Code](https://github.com/JacobbV/Check_Voo) | — |
-| 🔳 **ProjectQRcode** | Project repository | [Repository](https://github.com/JacobbV/ProjectQRcode) | — |
-| 🍽️ **Restaurant System** | Practical programming exercises in Python | [Repository](https://github.com/JacobbV/sistema-restaurante-python) | — |
+| 💰 **Personal Finance — Web** | Purchases, installments, and financial tracking | [Repository](https://github.com/JacobbV/controle-financeiro-web) | Not yet deployed |
+| 🖥️ **Personal Finance — Desktop** | Desktop finance application | [Repository](https://github.com/JacobbV/controle-financeiro-desktop) | — | Not yet deployed |
+| ✈️ **Check_Voo** | Aircraft data, API integration, and interactive maps | [Source Code](https://github.com/JacobbV/Check_Voo) | — | Not yet deployed |
+| 🔳 **ProjectQRcode** | Project repository | [Repository](https://github.com/JacobbV/ProjectQRcode) | — | Not yet deployed |
+| 🍽️ **Restaurant System** | Practical programming exercises in Python | [Repository](https://github.com/JacobbV/sistema-restaurante-python) | — | Not yet deployed |
 
 > Private repositories require authorized access.
 
@@ -158,6 +158,4 @@ Activities and examples used in my algorithms classes, covering input and output
 
 ## 🌟 Fun Fact
 
-I love solving puzzles, exploring new tech, and making life easier through automation!
-
-🏍️ Beyond coding: motorcycle trips, music, and good conversations with friends.
+🏍️ Beyond coding: I love Jesus, motorcycle trips, music, and good conversations with friends, exploring new tech, and making life easier through automation!.
