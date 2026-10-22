@@ -36,27 +36,27 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 ### 🛠 Tech Stack
 
 <p>
-  <a href="https://www.python.org/"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-  <a href="https://numpy.org/"><img alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></a>
-  <a href="https://pandas.pydata.org/"><img alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></a>
-  <a href="https://www.djangoproject.com/"><img alt="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://sass-lang.com/"><img alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
-  <a href="https://getbootstrap.com/"><img alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /></a>
-  <a href="https://git-scm.com/"><img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
-  <a href="https://www.heroku.com/"><img alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /></a>
-  <a href="https://www.java.com/"><img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
-  <a href="https://kubernetes.io/"><img alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></a>
-  <a href="https://about.gitlab.com/"><img alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" /></a>
-  <a href="https://cloud.google.com/"><img alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" /></a>
-  <a href="https://azure.microsoft.com/"><img alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" /></a>
-  <a href="https://code.visualstudio.com/"><img alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
-  <a href="https://github.com/"><img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
-  <a href="https://python-visualization.github.io/folium/latest/"><img alt="Folium" height="37" width="27" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" /></a>
+  <a href="https://www.python.org/"><img alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://numpy.org/"><img alt="NumPy" title="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></a>
+  <a href="https://pandas.pydata.org/"><img alt="Pandas" title="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></a>
+  <a href="https://www.djangoproject.com/"><img alt="Django" title="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://sass-lang.com/"><img alt="Sass" title="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
+  <a href="https://getbootstrap.com/"><img alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /></a>
+  <a href="https://git-scm.com/"><img alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
+  <a href="https://www.heroku.com/"><img alt="Heroku" title="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /></a>
+  <a href="https://www.java.com/"><img alt="Java" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></a>
+  <a href="https://about.gitlab.com/"><img alt="GitLab" title="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" /></a>
+  <a href="https://cloud.google.com/"><img alt="Google Cloud" title="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" /></a>
+  <a href="https://azure.microsoft.com/"><img alt="Azure" title="Microsoft Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" /></a>
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" title="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://github.com/"><img alt="GitHub" title="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
+  <a href="https://python-visualization.github.io/folium/latest/"><img alt="Folium" title="Folium" height="37" width="27" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" /></a>
   <a href="https://requests.readthedocs.io/"><img alt="Requests" title="Requests" height="30" width="40" src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" /></a>
   <a href="https://github.com/Textualize/rich"><img alt="Rich" title="Rich" height="30" width="40" src="https://raw.githubusercontent.com/Textualize/rich/main/imgs/logo.svg" /></a>
   <a href="https://geopy.readthedocs.io/"><img alt="Geopy" title="Geopy" height="30" width="40" src="https://avatars.githubusercontent.com/u/1385808?s=200&amp;v=4" /></a>
