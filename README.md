@@ -151,13 +151,9 @@ Activities and examples used in my algorithms classes, covering input and output
 
 ---
 
-## 🐍 Contributions
+### 🐍 My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated visualization of my GitHub contributions" src="https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg)
 
 ---
 
