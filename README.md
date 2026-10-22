@@ -1,66 +1,75 @@
-### Hey there! I'm Rameson Jacó. 👋
+# Hi there! I'm Rameson Jacó 👋
 
-Passionate about technology, coding, and solving problems with clean and efficient solutions. Currently diving deeper into **Python, Django, and Data Engineering**.
+**Educator at IFPB • B.Sc. in Computer Science • Python Development**
 
----
+I teach programming and build applications that solve everyday problems. I enjoy turning ideas into useful tools, connecting theory with practice, and sharing knowledge.
 
-### 🚀 About Me
-- 📚 **Learning**: Python | Django | Data Engineering | Cloud Computing (Azure)
-- 🛠️ **Tech Stack**: Backend, APIs, Databases, and Web Development
-- 🌐 **Currently Exploring**: AI, Machine Learning & Software Quality
-- 📚 **Experience**: Customer Success, Software Development & Data Analysis
-- 🌟 **Goal**: Become a top-tier **Data Engineer & AI Specialist**
+I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), Catolé do Rocha Campus**, Brazil. My interests include web development, automation, data engineering, and artificial intelligence.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/JacobbV">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JacobbV&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobbV&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  </a>
-</div>
+## 👨‍🏫 About Me
+
+- 📚 I teach programming fundamentals, algorithms, and computer fundamentals.
+- 🐍 I develop Python projects, including management systems and web applications.
+- 🛠️ My projects include inventory management and personal finance tools.
+- 🌱 I'm deepening my knowledge of Django, data engineering, and cloud computing with Azure.
+- 🔎 I'm interested in artificial intelligence, machine learning, and software quality.
+- 🎯 My goal is to bring software development, data, and education together to build useful, well-crafted solutions.
+
+## 🚀 Projects
+
+### 🧺 Pedacinho do Sertão — Inventory Management
+
+A web application for managing a business's inventory. This project connects software development with a real need for organization and day-to-day management.
+
+[📂 Source Code](https://github.com/JacobbV/pedacinho-do-sertao-estoque) · [🌐 Visit Application](https://ramesonjaco.pythonanywhere.com/)
+
+### 💰 Personal Finance Management System
+
+A Python project with a web version for organizing purchases, installment payments, and financial tracking. Built and improved around everyday needs.
+
+### 🧑‍💻 Teaching Programming with Python
+
+Activities and examples used in my algorithms classes, covering input and output, variables, operators, conditionals, and loops. Examples include menu-driven programs and restaurant ordering simulations.
+
+## 🛠️ Technologies & Tools
+
+### Development & Projects
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
+</p>
+
+**Python · HTML · CSS · JavaScript · Git · GitHub · VS Code · PythonAnywhere**
+
+### Learning & Development
+
+- **Backend & Web:** Django, APIs, and relational databases.
+- **Data:** Pandas, NumPy, SQL, and data engineering.
+- **Cloud:** Microsoft Azure.
+- **Artificial Intelligence:** AI fundamentals and machine learning.
+- **Software Quality:** Testing and development best practices.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rameson-jac%C3%B3-772547120/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramesonjaco/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacobbV)
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated visualization of my GitHub contributions" src="https://raw.githubusercontent.com/JacobbV/JacobbV/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-### 🛠 Tech Stack
-<div style="display: inline_block"><br>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://numpy.org/" target="_blank"><img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"></a>
-  <a href="https://python-visualization.github.io/folium/latest/" target="_blank"><img align="center" alt="Folium" height="37" width="27" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png"></a>
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-  <a href="https://www.heroku.com/" target="_blank"><img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></a>
-  <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-  <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></a>
-  <a href="https://cloud.google.com/?hl=pt_br" target="_blank"><img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
-  <a href="https://azure.microsoft.com/pt-br" target="_blank"><img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
-  <a href="https://github.com/" target="_blank"><img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
-</div>
-
----
-
-### 📫 Connect with Me
-<div> 
-  <a href="https://www.linkedin.com/in/rameson-jac%C3%B3-772547120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:ramesonjacogmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ramesonjaco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-![Snake animation](https://github.com/JacobbV/JacobbV/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🌟 Fun Fact
-I love **solving puzzles, exploring new tech, and making life easier through automation**!
+🏍️ Beyond coding: motorcycle trips, music, and good conversations with friends.
