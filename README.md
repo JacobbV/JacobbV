@@ -18,6 +18,7 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 - 👨‍🏫 **Teaching**: Programming Logic, Algorithms & Computer Fundamentals at IFPB
 - 🎓 **Education**: Bachelor's Degree in Computer Science
 - 🐍 **Building**: Python applications for inventory management, personal finance, and programming education
+- 🏍️ **Latest**: an offline-first PWA for planning motorcycle trips, built with vanilla JavaScript and Firebase
 - 📍 **Based in**: Catolé do Rocha, Paraíba, Brazil
 
 ---
@@ -61,6 +62,7 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
   <a href="https://github.com/Textualize/rich"><img alt="Rich" title="Rich" height="30" width="40" src="https://raw.githubusercontent.com/Textualize/rich/main/imgs/logo.svg" /></a>
   <a href="https://geopy.readthedocs.io/"><img alt="Geopy" title="Geopy" height="30" width="40" src="https://avatars.githubusercontent.com/u/1385808?s=200&amp;v=4" /></a>
   <a href="https://www.pythonanywhere.com/"><img alt="PythonAnywhere" title="PythonAnywhere" height="30" width="40" src="https://avatars.githubusercontent.com/u/181511?s=200&amp;v=4" /></a>
+  <a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" /></a>
 </p>
 
 
@@ -69,6 +71,8 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 ### API Integration & Visualization
 
 **Requests · Folium · Rich · Geopy** — used in Check_Voo for API requests, maps, terminal output, and geolocation.
+
+**Firebase · Leaflet · OpenStreetMap · Open-Meteo · PWA** — used in Expedição Chapada for real-time sync, offline maps, routes, and weather.
 
 ### Learning & Development
 
@@ -84,6 +88,7 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 
 | Project | Focus | Repository | Application |
 | --- | --- | --- | --- |
+| 🏍️ **Expedição Chapada** | Motorcycle trip planner (PWA, offline, real-time sync) | [Repository](https://github.com/JacobbV/expedicao-chapada) | [Visit App](https://jacobbv.github.io/expedicao-chapada/) |
 | 🧺 **Pedacinho do Sertão** | Inventory management | [Repository](https://github.com/JacobbV/pedacinho-do-sertao-estoque) | [Visit App](https://ramesonjaco.pythonanywhere.com/) |
 | 💰 **Personal Finance — Web** | Purchases, installments, and financial tracking | [Repository](https://github.com/JacobbV/controle-financeiro-web) | Not yet deployed |
 | 🖥️ **Personal Finance — Desktop** | Desktop finance application | [Repository](https://github.com/JacobbV/controle-financeiro-desktop) | Not yet deployed |
@@ -96,6 +101,22 @@ I teach computing and algorithms at the **Federal Institute of Paraíba (IFPB), 
 ---
 
 ## 🚀 Projects
+
+### 🏍️ Expedição Chapada — Motorcycle Trip Planner
+
+An installable web app (PWA) to plan and ride a 2,500 km motorcycle trip from Catolé do Rocha (PB) to Chapada Diamantina (BA) with a friend. It works offline and syncs between both riders in real time.
+
+- **Itinerary & roadbook:** day-by-day route, printable 10×15 cm roadbook, and a large-text riding mode
+- **Interactive map:** points of interest, road routes, and three map styles (standard, terrain, dark)
+- **Weather:** forecast along the route at the time you pass each city, plus 5-year climate history
+- **Fuel & logbook:** refueling stops based on each bike's range and real fuel consumption from the logbook
+- **Expenses:** shared trip costs with automatic settlement, plus private expenses and CSV export
+- **Safety:** emergency cards and one-tap location / "arrived safely" messages via WhatsApp
+- **Roles & privacy:** admin and rider permissions enforced by Firestore security rules
+
+**Technologies:** JavaScript (ES Modules) · HTML · CSS · Firebase (Auth + Firestore) · Leaflet · OpenStreetMap · OSRM · Open-Meteo · Service Worker · GitHub Pages
+
+[📂 Repository](https://github.com/JacobbV/expedicao-chapada) · [🌐 Visit Application](https://jacobbv.github.io/expedicao-chapada/)
 
 ### 🧺 Pedacinho do Sertão — Inventory Management
 
